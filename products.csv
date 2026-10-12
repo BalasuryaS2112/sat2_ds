@@ -1,0 +1,91 @@
+product_id,category,brand,size,seller_id,seller,list_price
+P0001,Beauty,UrbanLeaf,M,S004,Delta Direct,563.63
+P0002,Apparel,PeakPro,small,S018,Riverstone Store,452.23
+P0003,Footwear,UrbanLeaf,XS,S003,Cedar Commerce,764.07
+P0004,Electronics,Aster,L,S004,Delta Direct,13364.5
+P0005,Apparel,Aster,S,S017,QuickBuy Hub,1510.07
+P0006,Footwear,HomeNest,S,S001,Apex Retail,3335.48
+P0007,Home & Kitchen,Nova, xl ,S003,Cedar Commerce,501.53
+P0008,Electronics,PeakPro,Medium,S011,Kite Commerce,344.3
+P0009,Footwear,Aster,large,S005,Evergreen Sellers,4574.81
+P0010,Electronics,Nova,One Size,S002,BlueCart,3428.3
+P0011,Electronics,Luma,XS,S004,Delta Direct,13694.93
+P0012,Sports,Aster,XL,S006,FastLane Store,8861.05
+P0013,Beauty,Vertex,S,S016,Prime Basket,1932.0
+P0014,Apparel,HomeNest,M,S015,Orbit Retail,7822.9
+P0015,Beauty,PeakPro,XS,S005,Evergreen Sellers,2079.87
+P0016,Apparel,Nova,M,S017,QuickBuy Hub,7270.15
+P0017,Beauty,PeakPro,One Size,S017,QuickBuy Hub,7713.45
+P0018,Home & Kitchen,HomeNest,S,S016,Prime Basket,2477.71
+P0019,Home & Kitchen,Nova,One Size,S009,Indigo Traders,1706.29
+P0020,Footwear,Luma,One Size,S005,Evergreen Sellers,5210.02
+P0021,Sports,HomeNest,S,S006,FastLane Store,523.73
+P0022,Apparel,UrbanLeaf,One Size,S008,Harbor Market,6976.6
+P0023,Apparel,Luma,M,S004,Delta Direct,1320.26
+P0024,Beauty,Nova,S,S006,FastLane Store,6385.55
+P0025,Apparel,Luma,Small ,S001,Apex Retail,4922.27
+P0026,Sports,Nova,XS,S001,Apex Retail,314.22
+P0027,Apparel,PeakPro,S,S016,Prime Basket,13529.89
+P0028,Home & Kitchen,Vertex,XS,S017,QuickBuy Hub,2700.61
+P0029,Footwear,PeakPro,S,S009,Indigo Traders,2139.03
+P0030,Sports,HomeNest,L,S011,Kite Commerce,6317.67
+P0031,Beauty,Vertex,One Size,S008,Harbor Market,2767.1
+P0032,Home & Kitchen,Vertex,M,S005,Evergreen Sellers,16896.31
+P0033,Footwear,UrbanLeaf,med,S005,Evergreen Sellers,1297.97
+P0034,Home & Kitchen,Luma,XXL,S017,QuickBuy Hub,459.47
+P0035,Home & Kitchen,UrbanLeaf,L,S014,NorthStar Shop,3329.72
+P0036,Apparel,HomeNest,XS,S005,Evergreen Sellers,558.64
+P0037,Footwear,Vertex,XXL,S004,Delta Direct,13415.57
+P0038,Sports,Luma,One Size,S001,Apex Retail,707.92
+P0039,Home & Kitchen,Vertex,M,S012,Lotus Online,281.5
+P0040,Home & Kitchen,Vertex,large,S001,Apex Retail,554.06
+P0041,Electronics,Nova,Medium,S010,Jade Retail,876.7
+P0042,Electronics,Nova,XXL,S002,BlueCart,1881.24
+P0043,Home & Kitchen,Luma,med,S015,Orbit Retail,602.14
+P0044,Footwear,PeakPro,One Size,S016,Prime Basket,326.21
+P0045,Sports,Aster,XS,S017,QuickBuy Hub,3248.47
+P0046,Footwear,Nova,L,S011,Kite Commerce,7551.49
+P0047,Home & Kitchen,Aster,L,S014,NorthStar Shop,8165.81
+P0048,Home & Kitchen,HomeNest,One Size,S013,Metro Sellers,7640.14
+P0049,Apparel,Luma,XL,S016,Prime Basket,378.35
+P0050,Home & Kitchen,PeakPro,XS,S018,Riverstone Store,427.31
+P0051,Beauty,UrbanLeaf,M,S008,Harbor Market,15289.58
+P0052,Footwear,Nova,M,S016,Prime Basket,11322.83
+P0053,Apparel,Vertex,XXL,S001,Apex Retail,1845.12
+P0054,Apparel,Luma,XL,S005,Evergreen Sellers,15534.52
+P0055,Home & Kitchen,Vertex,M,S001,Apex Retail,15033.73
+P0056,Apparel,Vertex,XXL,S010,Jade Retail,2400.36
+P0057,Apparel,PeakPro,XS,S018,Riverstone Store,6211.49
+P0058,Footwear,HomeNest,XS,S006,FastLane Store,5514.24
+P0059,Electronics,Nova,One Size,S018,Riverstone Store,3331.61
+P0060,Electronics,Aster,S,S001,Apex Retail,8991.11
+P0061,Apparel,Vertex,XXL,S016,Prime Basket,1609.98
+P0062,Home & Kitchen,Luma,S,S014,NorthStar Shop,12509.77
+P0063,Electronics,UrbanLeaf,One Size,S007,GigaGoods,1059.24
+P0064,Beauty,Luma,XS,S002,BlueCart,1606.68
+P0065,Home & Kitchen,Aster,XX-Large,S009,Indigo Traders,495.42
+P0066,Beauty,HomeNest,M,S011,Kite Commerce,6419.91
+P0067,Footwear,Aster,XXL,S009,Indigo Traders,988.62
+P0068,Apparel,Nova,L,S009,Indigo Traders,4537.85
+P0069,Apparel,Luma,One Size,S007,GigaGoods,429.0
+P0070,Sports,HomeNest,One Size,S010,Jade Retail,1022.33
+P0071,Apparel,PeakPro,XL,S004,Delta Direct,7832.87
+P0072,Beauty,PeakPro,XL,S014,NorthStar Shop,304.38
+P0073,Footwear,Nova,small,S018,Riverstone Store,1015.58
+P0074,Home & Kitchen,Nova,XXL,S009,Indigo Traders,10463.68
+P0075,Home & Kitchen,UrbanLeaf,M,S013,Metro Sellers,983.85
+P0076,Electronics,Luma,M,S001,Apex Retail,8629.9
+P0077,Footwear,UrbanLeaf,L,S016,Prime Basket,3302.83
+P0078,Electronics,UrbanLeaf,XXL,S016,Prime Basket,16642.74
+P0079,Footwear,HomeNest, xl ,S016,Prime Basket,6525.82
+P0080,Electronics,Vertex,One Size,S016,Prime Basket,17032.32
+P0081,Footwear,Aster,XL,S002,BlueCart,953.0
+P0082,Apparel,Nova,One Size,S006,FastLane Store,7035.75
+P0083,Apparel,Luma,S,S008,Harbor Market,6449.0
+P0084,Home & Kitchen,UrbanLeaf,XS,S008,Harbor Market,479.42
+P0085,Electronics,Vertex,S,S001,Apex Retail,342.63
+P0086,Apparel,UrbanLeaf,L,S016,Prime Basket,560.62
+P0087,Footwear,PeakPro,One Size,S015,Orbit Retail,6631.52
+P0088,Footwear,Luma,XL,S002,BlueCart,1196.51
+P0089,Apparel,HomeNest,M,S005,Evergreen Sellers,794.92
+P0090,Apparel,Nova,XXL,S007,GigaGoods,530.14
